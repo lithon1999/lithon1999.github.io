@@ -1925,6 +1925,9 @@ body {
 .cid-rrGGTKLBzb .btn-social {
   border: none !important;
 }
+.cid-rrGGTKLBzb .btn-social {
+  border-radius: 0 !important;
+}
 .cid-rrGGTKLBzb [class^="socicon-"]:before,
 .cid-rrGGTKLBzb [class*=" socicon-"]:before {
   line-height: 44px;
