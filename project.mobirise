@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TechVloger",
-    "currentPage": "page3.html",
+    "currentPage": "Tech News.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1923,7 +1923,7 @@
         }
       ]
     },
-    "page3.html": {
+    "Tech News.html": {
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Tech News",
